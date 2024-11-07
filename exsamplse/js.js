@@ -1,9 +1,7 @@
-var isRain = prompt ("Сусын тапсырыс берыныз")
+var menu = prompt("drink")
 
-if (hasCar = "A"){
-    alert("Cola")
-} else if (hasCar = "B"){
-    alert("Sprite")
-} else if(hasCar = "C"){
-    alert("Fanta")
-}
+if (menu = 'A') {
+    tapsyrys += 'cola' + "\n";
+    } else if (menu = 'B') {
+    tapsyrys += 'fanta' + '\n';
+    } else if (menu = 'Sprite' + '\n')
